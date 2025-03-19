@@ -1,1 +1,0 @@
-# MinimalSpanningTrees-Lean4
